@@ -61,7 +61,7 @@
 
 /* Hero Section */
 .hero-section {
-  background: url(banner.png) no-repeat center center;
+  background: url(image/banner.png) no-repeat center center;
   background-attachment: fixed;
   background-size: cover;
   height: 120vh;
